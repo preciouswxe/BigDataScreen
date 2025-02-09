@@ -1,0 +1,31 @@
+.leftClass {
+    width: 450px;
+    height: 270px;
+    border: 1px skyblue;
+    box-shadow: #1a73f6 0 0 10px inset;
+    background: linear-gradient(to left, skyblue, #00a1ff) left top no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) left top no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right top no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) right top no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) left bottom no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) left bottom no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right bottom no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right bottom no-repeat;
+    background-size: 2px 10px, 10px 2px, 2px 10px, 10px 2px;
+}
+
+.rightClass {
+    width: 450px;
+    height: 300px;
+    border: 1px blue;
+    box-shadow: #1a73f6 0 0 10px inset;
+    background: linear-gradient(to left, skyblue, #00a1ff) left top no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) left top no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right top no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) right top no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) left bottom no-repeat,
+    linear-gradient(to bottom, skyblue, #00a1ff) left bottom no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right bottom no-repeat,
+    linear-gradient(to left, skyblue, #00a1ff) right bottom no-repeat;
+    background-size: 2px 10px, 10px 2px, 2px 10px, 10px 2px;
+}

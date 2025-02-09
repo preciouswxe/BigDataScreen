@@ -1,0 +1,13 @@
+@font-face{
+    font-family:"Bebas Neue";
+    src: url("@/assets/BebasNeue-1.otf");
+}
+
+.shownum {
+    text-align: center;
+    color: #5ef5d2;
+    font-size: 90px;
+    font-weight: 600;
+    font-family: "Bebas Neue", serif, sans-serif;
+    letter-spacing: 5px; /* 设置字体间距 */
+}
